@@ -1,0 +1,8 @@
+{
+  "name": "000_setup",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp-babel": "^5.1.0",
+    "gulp": "^3.9.0"
+  }
+}
