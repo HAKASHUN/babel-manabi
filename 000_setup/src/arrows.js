@@ -26,7 +26,7 @@ var nums = list.map(function (v, i) {
 var nums = list.map((v, i) => v + i);
 
 /**
- * arrow functionforEach
+ * arrow function forEach
  */
 
 // ES5
